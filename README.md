@@ -27,7 +27,7 @@ AI-powered platform that helps students stay engaged and teachers monitor unders
 
 1. **Clone & Install**
 ```bash
-git clone [repu url]https://github.com/prajakta-47/Winternthon
+git clone [repo url] https://github.com/prajakta-47/Winternthon
 cd backend && npm install
 cd ../frontend && npm install
 ```
