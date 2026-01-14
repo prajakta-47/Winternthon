@@ -2,7 +2,7 @@
 # Personalized Learning Student Support System
 
 ## 🎯 Overview
-AI-powered platform that helps students stay engaged and teachers monitor understanding in real-time. Solves WIN10: "Stay Awake" problem.
+AI-powered platform that helps students stay engaged and teachers monitor understanding in real-time. Solves WIN5: Question Without Hesitation.
 
 ## ✨ Key Features
 **Students:**
